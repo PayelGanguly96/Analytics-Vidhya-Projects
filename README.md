@@ -1,4 +1,7 @@
-# Time-Series-Analysis
-Time Series Forecasting on Air-Passengers dataset
+Description of the projects (using Python):- 
 
-Reference : Analytics Vidhya ( Time Series Forecast in python) 
+#1 Time Series Forecasting on Air-Passengers dataset  
+
+#2 Twitter Sentiment Analysis
+
+
